@@ -1,0 +1,2 @@
+# DotScript
+personal config scripts
