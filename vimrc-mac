@@ -1,0 +1,23 @@
+set nocompatible
+
+set number
+
+syntax on
+
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set noexpandtab
+
+set showmatch
+
+set incsearch
+
+set encoding=utf-8
+
+set fileencodings=ucs-bom,utf-8,utf=16,cp936,gb18030,big5,euc-jp,euc-kr,latin1
+
+set guifont=Menlo:h16:cANSI
+
+colorscheme torte
+
